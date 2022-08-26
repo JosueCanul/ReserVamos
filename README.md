@@ -9,3 +9,5 @@ ReserVamos is a program made in the JAVA IDE that let's the user to make reserva
 [Ian Aguilar Ramírez](https://github.com/JosueCanul/ReserVamos/blob/main/CV-IAR.pdf "Ian Aguilar Ramírez")
 
 [Emilio Campos Daguer](https://github.com/JosueCanul/ReserVamos/blob/main/CV_CamposDaguer_Emilio.pdf "Emilio Campos Daguer")
+
+[Daniel Méndez Sierra](https://github.com/JosueCanul/ReserVamos/blob/main/CV%20Daniel%20M%C3%A9ndez%20Sierra.pdf "Daniel Méndez Sierra")
